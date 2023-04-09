@@ -2,11 +2,11 @@ header a{
 	
 	background-color: lime;
 	color: black;
-	font-size: 30px;
+	font-size: 20px;
 	border-radius:30px;
 	border:1px solid lime;
     padding: 10px;
-    margin: 50px;
+    margin: 10px;
     text-align: center;
 
 }
